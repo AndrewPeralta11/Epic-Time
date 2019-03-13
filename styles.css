@@ -1,0 +1,22 @@
+body {
+    text-align: center;
+    background-color: #565691;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+button {
+    padding: 20px;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+input {
+    padding: 20px;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+
+div {
+    margin: 50px;
+}
